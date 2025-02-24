@@ -7,15 +7,15 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 
 Software engineering is the art of science  of designing , building and maintaining software solutions  that help solve real world problems using engineering principles.
-It basically enables the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment eductaion and healthcare.
+It basically enables the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment education and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-1. Development of programming langauages.
+1. Development of programming languages.
    This milestone emphasized the need for structured development methodologies, formal design processes, and systematic approaches to building software.
     It led to the development of software lifecycle models like the Waterfall Model.
    
-3. Estabblishment of software engineering asa discipline.
+3. Estabblishment of software engineering as a discipline.
    This milestone  was pionered by  Edsger Dijkstra and it helped improve software reliability and efficiency, laying the foundation for modern programming practices.
    
 5. The rise of Agile methodologies.
@@ -61,17 +61,17 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-    Integrated Development Environments (IDEs)  are tools for wrting, debugging and testing codes. i.e Vs code, pycharm.
+    Integrated Development Environments (IDEs)  are tools for writing, debugging and testing codes. i.e Vs code, pycharm.
     
     Version Control sysytems(vcs) are systems that allow collaboration,enabling mutiple people to work on the same project irrespective of their location.ie Git and Github.
  
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
    1. Change of requirements during deployment stage that lead to project delays.
-   2. 
-   3. Deadlines. The pressure to develop and deliver a software can lead to compromised quality.
-   4. 
-   5. Technical debts that lead to a high maintenance cost.
+      
+   2. Deadlines. The pressure to develop and deliver a software can lead to compromised quality.
+      
+   3. Technical debts that lead to a high maintenance cost.
       
 To overcome and mitigate such challenges the following strategies can be employed; effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
@@ -79,10 +79,10 @@ To overcome and mitigate such challenges the following strategies can be employe
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
   1. Unit testing- testing a specific component of the software.
-  2. 
-  3. System testing- testing the entire software system.
-  4. 
-  5. Acceptance testing -testing the software against user requirements to ensure it meets user needs.
+   
+  2. System testing- testing the entire software system.
+     
+  3. Acceptance testing -testing the software against user requirements to ensure it meets user needs.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
